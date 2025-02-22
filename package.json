@@ -47,6 +47,7 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
   "name": "ecommerce-api",
   "version": "1.0.0",
   "main": "index.js",
@@ -65,7 +66,9 @@
     "passport": "^0.7.0",
     "passport-local": "^1.0.0",
     "pg": "^8.13.3",
+    "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.1",
     "yamljs": "^0.3.0"
   }
 }
+
