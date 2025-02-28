@@ -1,4 +1,4 @@
-# eCommerceApp-RestApi
+# eCommerceApp-RestApi-PartTwo
 
 Building an e-commerce application REST API using my knowledge of server-side web development.
 
